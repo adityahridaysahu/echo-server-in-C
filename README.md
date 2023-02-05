@@ -3,6 +3,6 @@
 - Usage:
 > gcc main.c -o main
 - Takes command-line arguments:
-> ./main <ip_address> <port> <mode>
+> ./main <ip_address> <port\> <mode\>
 - <mode> can be 'c' for client or 's' for server
 - Server listens on 0.0.0.0 by default
